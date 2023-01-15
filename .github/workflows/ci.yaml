@@ -43,4 +43,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: vhost1337/hello-world-printer:latest
+          tags: vhost1337/hello-world-printer:0.1
