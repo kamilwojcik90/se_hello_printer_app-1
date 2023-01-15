@@ -19,3 +19,5 @@ jobs:
       # testy!!!!!
       - name: Tests
         run: make test
+      - name: Flake8
+        run: make lint
